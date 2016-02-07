@@ -1,0 +1,14 @@
+{
+  "name": "link-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adit Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2"
+  }
+}
